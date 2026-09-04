@@ -1,1 +1,1 @@
-# hackers-app
+# Income PoV application release catalog
